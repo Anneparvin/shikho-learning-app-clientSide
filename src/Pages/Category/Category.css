@@ -1,0 +1,24 @@
+.category-container{
+    display: grid;
+    grid-template-columns: 1.15fr 2.85fr;
+}
+.card-container{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap:1rem;
+    margin:1.5rem .75rem;
+}
+
+
+@media only screen  and (max-width: 600px){
+    .category-container{
+        display: grid;
+        grid-template-columns: 1 1fr;
+    }
+    .card-container{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        gap:1rem;
+        
+    } 
+}

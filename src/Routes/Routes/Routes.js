@@ -23,11 +23,13 @@ export const routes = createBrowserRouter([
             },
             {
                 path:'/category/:id',
-                element:<Category></Category>,  
+                element:<Category></Category>,
+                loader: ({params}) => fetch(`https://shikho-learning-app-server.vercel.app/category/${params.id}`)  
             },
             {
                 path:'/courses/:id',
-                element:<Courses></Courses>,  
+                element:<Courses></Courses>,
+                loader: ({params}) => fetch(`https://shikho-learning-app-server.vercel.app/courses/${params.id}`)  
             },
             {
                 path:'/login',
