@@ -3,16 +3,17 @@ import Category from '../../Category/Category';
 
 
 const LeftSideNav = () => {
-    const [categories, setCategories] = useState();
+    const [categories, setCategories] = useState([]);
 
     useEffect(()=>{
-        fetch ('http://localhost:5000/courses-categories')
+        fetch ('https://shikho-learning-app-server.vercel.app/courses-categories')
         .then(res => res.json())
         .then(data => setCategories(data));
     }, [])
+
     return (
         <div>
-            <h2>All Category:{categories.length}</h2>
+            <h2 className='text-2xl ml-12 font-bold'>All Category:{categories.length}</h2>
             {
                 categories.map(category =><Category
                 key={category.id}
