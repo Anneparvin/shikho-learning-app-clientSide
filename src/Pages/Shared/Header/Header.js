@@ -5,8 +5,9 @@ import logo from '../../../Assets/shikhoApp.png';
 const Header = () => {
     const menuItems = <>
                     <li className='font-semibold'><Link to='/register'>Register</Link></li>
-                    <li className='font-semibold'><Link to='/reviewSection'>ReviewSection</Link></li>
                     <li className='font-semibold'><Link to='/blog'>Blog</Link></li>
+                    <li className='font-semibold'><Link to='/login'>Login</Link></li>
+                    <li className='font-semibold'><Link to='/faq'>FAQ</Link></li>
                     </>
 
     
