@@ -71,9 +71,9 @@ const Login = () => {
     }
 
     return (
-        <div className="card flex-shrink-0 w-full max-w-sm shadow-2xl bg-base-100 py-20">
-             <div className="w-full max-w-md p-8 space-y-3 rounded-xl bg-gray-900 text-gray-100">
-                        {
+        <div className="card flex-shrink-0 w-full mx-auto max-w-sm shadow-2xl bg-base-100 py-20 mt-12">
+        <h1 className="text-5xl text-center font-bold">Login</h1>
+        {
                             error && 
                             <div className="alert alert-error shadow-lg">
                             <div>
@@ -82,7 +82,6 @@ const Login = () => {
                             </div>
                             </div>
                         }
-        <h1 className="text-5xl text-center font-bold">Login</h1>
         <form onSubmit={handleLogin} className="card-body">
             <div className="form-control">
                 <label className="label">
@@ -95,7 +94,7 @@ const Login = () => {
                     <span className="label-text">Password</span>
                 </label>
                 <input type="password" name='password' placeholder="password" className="input input-bordered" />
-                <label className="label">
+                <label className="label flex">
                     <a href="/" className="label-text-alt link link-hover">Forgot password?</a>
                 </label>
             </div>
@@ -124,9 +123,7 @@ const Login = () => {
 
         <p className='text-center'>New to Shikho-learning-app
         <Link className='text-orange-600 font-bold' to="/register">Register</Link> </p>
-        <span>{passwordError}</span>
-        <span>{Error}</span>
-    </div>
+
     </div>
     );
 };
