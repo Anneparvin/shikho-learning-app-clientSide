@@ -1,19 +1,22 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { useLoaderData } from 'react-router-dom';
+import CourseTitle from '../CourseTitle/CourseTitle';
+import CoursesDetail from '../CoursesDetail/CoursesDetail';
 
-const Category = ({category}) => {
-    const {id,name} = category;
+const Category = () => {
+  const courses = useLoaderData();
+    CourseTitle('Courses');
+    
     return (
-        <div className="card w-96 bg-base-100 shadow-xl image-full mt-4 ml-12 md:grid-cols-2 lg:grid-cols-1 grid-cols-2">
-        <figure><img src="https://placeimg.com/400/225/arch" alt="pic" /></figure>
-        <div className="card-body">
-          <h2 className="card-title font-bold">{id}</h2>
-          <p className='text-2xl font-bold'>{name}</p>
-          <button className="btn btn-block btn-glass bg-secondary">
-          <Link to={`/category/${category.id}`}>Course Details</Link>
-          </button>
+     <div>
+            <h2>this is category:{courses.length}</h2>
+            {
+                courses.map(course =><CoursesDetail
+                key={course._id}
+                course={course}
+                ></CoursesDetail>)
+            }
         </div>
-      </div>
     );
 };
 

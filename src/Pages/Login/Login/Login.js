@@ -1,11 +1,15 @@
 import React, { useContext, useState } from 'react';
 import { Link, useLocation, useNavigate } from 'react-router-dom';
+import { toast, ToastContainer } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 import { AuthContext } from '../../../contexts/AuthProvider';
+import CourseTitle from '../../CourseTitle/CourseTitle';
 
 const Login = () => {
     const {signIn, googleSignIn, githubSignIn} = useContext(AuthContext);
     const [passwordError, setPasswordError] = useState('');
     const [error, setError] = useState(false);
+    CourseTitle('Login');
 
     const navigate = useNavigate();
     const location = useLocation();
@@ -18,6 +22,16 @@ const Login = () => {
         const email = form.email.value;
         const password = form.password.value;
         console.log(email, password);
+        toast.success('Successfully Login!', {
+            position: "top-center",
+            autoClose: 5000,
+            hideProgressBar: false,
+            closeOnClick: true,
+            pauseOnHover: true,
+            draggable: true,
+            progress: undefined,
+            theme: "colored",
+     });
 
          //Password Error Message
          if(!/(?=.*[A-Z])/.test(password)){
@@ -36,16 +50,19 @@ const Login = () => {
             return;
         }
 
+        // user sign in
         signIn(email, password)
         .then(result =>{
             const user = result.user;
             console.log(user);
             navigate(from, { replace: true });
+            
         })
         .catch(error => {
             console.error(error.message);
             setPasswordError(error.message)
         })
+
     }
 
     //Google Sign in
@@ -102,6 +119,7 @@ const Login = () => {
                 <input className="btn btn-primary" type="submit" value="Login" />
             </div>
         </form>
+        <ToastContainer/>
         <div className="flex items-center pt-4 space-x-1">
                         <div className="flex-1 h-px sm:w-16 bg-gray-700"></div>
                         <p className="px-3 text-sm text-gray-400">Login with social accounts</p>

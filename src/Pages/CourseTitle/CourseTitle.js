@@ -1,11 +1,9 @@
-import React from 'react';
+import { useEffect } from 'react';
 
-const CourseTitle = () => {
-    return (
-        <div>
-            
-        </div>
-    );
+const CourseTitle = title => {
+    useEffect(()=>{
+        document.title = `${title}-Shikho-learning-app`;
+   },[title])
 };
 
 export default CourseTitle;

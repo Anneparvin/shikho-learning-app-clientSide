@@ -14,7 +14,7 @@ const Profile = () => {
         const password = form.password.value;
         updateProfile(name, photo);
         handleUpdatePassword(password);
-        toast.success('Verification Email Sent!', {
+        toast.success('User Email Sent!', {
                position: "top-center",
                autoClose: 5000,
                hideProgressBar: false,

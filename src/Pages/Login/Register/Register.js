@@ -1,6 +1,7 @@
 import React, { useContext, useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { AuthContext } from '../../../contexts/AuthProvider';
+import CourseTitle from '../../CourseTitle/CourseTitle';
 
 const Register = () => {
     const {createUser, updateUserProfileData} = useContext(AuthContext);
@@ -9,6 +10,7 @@ const Register = () => {
     const [error, setError] = useState(false);
     const [acceptTerms, setAcceptTerms] = useState(false);
     const navigate = useNavigate();
+    CourseTitle('Register');
 
     const handleRegister = event => {
         event.preventDefault();
