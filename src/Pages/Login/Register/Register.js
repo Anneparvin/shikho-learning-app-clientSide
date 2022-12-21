@@ -1,5 +1,7 @@
 import React, { useContext, useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
+import { toast, ToastContainer } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 import { AuthContext } from '../../../contexts/AuthProvider';
 import CourseTitle from '../../CourseTitle/CourseTitle';
 
@@ -20,6 +22,16 @@ const Register = () => {
         const email = form.email.value;
         const password = form.password.value;
         console.log(name, email, password);
+        toast.success('Successfully Registered!', {
+            position: "top-center",
+            autoClose: 5000,
+            hideProgressBar: false,
+            closeOnClick: true,
+            pauseOnHover: true,
+            draggable: true,
+            progress: undefined,
+            theme: "colored",
+     });
 
         //Password Error Message
         if(!/(?=.*[A-Z])/.test(password)){
@@ -129,6 +141,7 @@ const Register = () => {
                         <button className="btn btn-primary" disabled={!acceptTerms}>Register</button>
                         </div>
         </form>
+        <ToastContainer />
         <p className='text-center'>Already have an account? 
         <Link className='text-orange-600 font-bold' to="/login">Login</Link> </p>
         

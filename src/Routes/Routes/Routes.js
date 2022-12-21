@@ -29,8 +29,9 @@ export const routes = createBrowserRouter([
                 loader: () => fetch(`https://shikho-learning-app-server.vercel.app/courses`)
             },
             {
-                path:'/course',
-                element:<Course></Course>,  
+                path: '/course',
+                element: <Course></Course>,
+                loader: () => fetch(`https://shikho-learning-app-server.vercel.app/courses`)
             },
             {
                 path:'/home',
@@ -44,7 +45,7 @@ export const routes = createBrowserRouter([
             {
                 path:'/courses/:id',
                 element:<Courses></Courses>,
-                loader: ({params}) => fetch(`https://shikho-learning-app-server.vercel.app/courses/${params.id}`)  
+                loader: ({params}) => fetch(` https://shikho-learning-app-server.vercel.app/courses/${params.id}`)  
             },
             {
                 path:'/login',
@@ -56,7 +57,7 @@ export const routes = createBrowserRouter([
             },
             {
                 path:'/profile',
-                element:<PrivateRoute><Profile></Profile></PrivateRoute>
+                element:<Profile></Profile>
             },
             {
                 path:'/blog',
@@ -71,9 +72,9 @@ export const routes = createBrowserRouter([
                 element:<CoursesDetail></CoursesDetail>,  
             },
             {
-                path:'/checkOut',
-                element:<CheckOut></CheckOut>,
-                loader: ({params}) => fetch(`https://shikho-learning-app-server.vercel.app/courses/${params.id}`)    
+                path:'/checkOut/:id',
+                element:<PrivateRoute><CheckOut></CheckOut></PrivateRoute>,
+                 loader: ({params}) => fetch(` https://shikho-learning-app-server.vercel.app/courses/${params.id}`)    
             },
         ]
     },

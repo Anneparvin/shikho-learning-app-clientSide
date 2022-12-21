@@ -3,7 +3,7 @@ import { useLoaderData } from 'react-router-dom';
 import CoursesDetail from '../CoursesDetail/CoursesDetail';
 
 const Course = () => {
-    const courses = useLoaderData();
+    const courses= useLoaderData();
     return (
         <div>
             <h2>you have :{courses.length}</h2>

@@ -1,449 +1,501 @@
 [
-    {
-        "_id": "11468ed61aee84de492a8b04158a22f9",
-      "category_id": 1,
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "complete powerpoint training",
-      "mentor": {
-        "name": "Alison",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://ibb.co/mNpTjJ4"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://ibb.co/x8PmXYc",
-      "details": "A Free Certificate Course On How To Create Beautiful Presentations Using MS PowerPoint. Alison Free Learning – Providing Opportunities To People Anywhere In The World Since 2007. Get Certified & Get Hired. No Enrolment Fees. Boost Your Resume."
+  {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": 1,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "complete powerpoint training",
+    "mentor": {
+      "name": "Alison",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://ibb.co/mNpTjJ4"
     },
-    {
-        "_id": "11468ed61aee84de492a8b04158a22f9",
-      "category_id": 1,
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "complete powerpoint training",
-      "mentor": {
-        "name": "Alison",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://ibb.co/mNpTjJ4"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://ibb.co/x8PmXYc",
-      "details": "A Free Certificate Course On How To Create Beautiful Presentations Using MS PowerPoint. Alison Free Learning – Providing Opportunities To People Anywhere In The World Since 2007. Get Certified & Get Hired. No Enrolment Fees. Boost Your Resume."
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "image_url": "https://ibb.co/x8PmXYc",
+    "details": "A Free Certificate Course On How To Create Beautiful Presentations Using MS PowerPoint. Alison Free Learning – Providing Opportunities To People Anywhere In The World Since 2007. Get Certified & Get Hired. No Enrolment Fees. Boost Your Resume."
+  },
+  {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": 1,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "complete powerpoint training",
+    "mentor": {
+      "name": "Alison",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://ibb.co/mNpTjJ4"
     },
-    {
-        "_id": "11468ed61aee84de492a8b04158a22f9",
-      "category_id": 1,
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "complete powerpoint training",
-      "mentor": {
-        "name": "Alison",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://ibb.co/mNpTjJ4"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://ibb.co/x8PmXYc",
-      "details": "A Free Certificate Course On How To Create Beautiful Presentations Using MS PowerPoint. Alison Free Learning – Providing Opportunities To People Anywhere In The World Since 2007. Get Certified & Get Hired. No Enrolment Fees. Boost Your Resume."
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "image_url": "https://ibb.co/x8PmXYc",
+    "details": "A Free Certificate Course On How To Create Beautiful Presentations Using MS PowerPoint. Alison Free Learning – Providing Opportunities To People Anywhere In The World Since 2007. Get Certified & Get Hired. No Enrolment Fees. Boost Your Resume."
+  },
+  {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": 1,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "complete powerpoint training",
+    "mentor": {
+      "name": "Alison",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://ibb.co/mNpTjJ4"
     },
-    {
-        "_id": "11468ed61aee84de492a8b04158a22f9",
-      "category_id": 1,
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "complete powerpoint training",
-      "mentor": {
-        "name": "Alison",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://ibb.co/mNpTjJ4"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://ibb.co/x8PmXYc",
-      "details": "A Free Certificate Course On How To Create Beautiful Presentations Using MS PowerPoint. Alison Free Learning – Providing Opportunities To People Anywhere In The World Since 2007. Get Certified & Get Hired. No Enrolment Fees. Boost Your Resume."
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "image_url": "https://ibb.co/x8PmXYc",
+    "details": "A Free Certificate Course On How To Create Beautiful Presentations Using MS PowerPoint. Alison Free Learning – Providing Opportunities To People Anywhere In The World Since 2007. Get Certified & Get Hired. No Enrolment Fees. Boost Your Resume."
+  },
+  {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": 1,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "complete powerpoint training",
+    "mentor": {
+      "name": "Alison",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://ibb.co/mNpTjJ4"
     },
-    {
-        "_id": "11468ed61aee84de492a8b04158a22f9",
-      "category_id": 1,
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "complete powerpoint training",
-      "mentor": {
-        "name": "Alison",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://ibb.co/mNpTjJ4"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://ibb.co/x8PmXYc",
-      "details": "A Free Certificate Course On How To Create Beautiful Presentations Using MS PowerPoint. Alison Free Learning – Providing Opportunities To People Anywhere In The World Since 2007. Get Certified & Get Hired. No Enrolment Fees. Boost Your Resume."
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "fees": "2800",
+    "duration": "3 hours",
+    "image_url": "https://ibb.co/x8PmXYc",
+    "details": "A Free Certificate Course On How To Create Beautiful Presentations Using MS PowerPoint. Alison Free Learning – Providing Opportunities To People Anywhere In The World Since 2007. Get Certified & Get Hired. No Enrolment Fees. Boost Your Resume."
+  },
+  {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": 1,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "complete powerpoint training",
+    "mentor": {
+      "name": "Alison",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://ibb.co/mNpTjJ4"
     },
-    
-    {
-        "_id": "11468ed61aee84de492a8b04158a22f9",
-      "category_id": 2,
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "personal finance management",
-      "mentor": {
-        "name": "hudai",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://ibb.co/j3jSYzK"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://ibb.co/YcfMgHn",
-      "details": "While the moniker “personal financial management” is often used to refer to ways of managing your personal finances, it is also an actual term often known by its acronym, PFM, and refers to the type of software used for personal finance apps. PFM has been around since 1983 when Intuit co-founder Scott Cook grew tired of watching his wife struggle with all the paperwork involved in paying bills by hand."
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "fees": "2800",
+    "duration": "3 hours",
+    "image_url": "https://ibb.co/x8PmXYc",
+    "details": "A Free Certificate Course On How To Create Beautiful Presentations Using MS PowerPoint. Alison Free Learning – Providing Opportunities To People Anywhere In The World Since 2007. Get Certified & Get Hired. No Enrolment Fees. Boost Your Resume."
+  },
+  
+  {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": 2,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "personal finance management",
+    "mentor": {
+      "name": "hudai",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://ibb.co/j3jSYzK"
     },
-    {
-        "_id": "11468ed61aee84de492a8b04158a22f9",
-      "category_id": 2,
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "personal finance management",
-      "mentor": {
-        "name": "hudai",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://ibb.co/j3jSYzK"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://ibb.co/YcfMgHn",
-      "details": "While the moniker “personal financial management” is often used to refer to ways of managing your personal finances, it is also an actual term often known by its acronym, PFM, and refers to the type of software used for personal finance apps. PFM has been around since 1983 when Intuit co-founder Scott Cook grew tired of watching his wife struggle with all the paperwork involved in paying bills by hand."
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "fees": "2500",
+    "duration": "3.30 hours",
+    "image_url": "https://ibb.co/YcfMgHn",
+    "details": "While the moniker “personal financial management” is often used to refer to ways of managing your personal finances, it is also an actual term often known by its acronym, PFM, and refers to the type of software used for personal finance apps. PFM has been around since 1983 when Intuit co-founder Scott Cook grew tired of watching his wife struggle with all the paperwork involved in paying bills by hand."
+  },
+  {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": 2,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "personal finance management",
+    "mentor": {
+      "name": "hudai",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://ibb.co/j3jSYzK"
     },
-    {
-        "_id": "11468ed61aee84de492a8b04158a22f9",
-      "category_id": 2,
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "personal finance management",
-      "mentor": {
-        "name": "hudai",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://ibb.co/j3jSYzK"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://ibb.co/YcfMgHn",
-      "details": "While the moniker “personal financial management” is often used to refer to ways of managing your personal finances, it is also an actual term often known by its acronym, PFM, and refers to the type of software used for personal finance apps. PFM has been around since 1983 when Intuit co-founder Scott Cook grew tired of watching his wife struggle with all the paperwork involved in paying bills by hand."
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "fees": "2500",
+    "duration": "3.30 hours",
+    "image_url": "https://ibb.co/YcfMgHn",
+    "details": "While the moniker “personal financial management” is often used to refer to ways of managing your personal finances, it is also an actual term often known by its acronym, PFM, and refers to the type of software used for personal finance apps. PFM has been around since 1983 when Intuit co-founder Scott Cook grew tired of watching his wife struggle with all the paperwork involved in paying bills by hand."
+  },
+  {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": 2,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "personal finance management",
+    "mentor": {
+      "name": "hudai",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://ibb.co/j3jSYzK"
     },
-    
-    {
-        "_id": "11468ed61aee84de492a8b04158a22f9",
-      "category_id": 3,
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "complete GRE preparation",
-      "mentor": {
-        "name": "jhukar",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://ibb.co/CznqZp2"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://ibb.co/xfmVdL5",
-      "details": "We offer a variety of free and low-cost tools to help you prepare for the GRE General Test so you can feel more confident on test day. To learn about the test and our test preparation tools directly from a GRE expert,sign up shikho learning app."
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "fees": "2500",
+    "duration": "3.30 hours",
+    "image_url": "https://ibb.co/YcfMgHn",
+    "details": "While the moniker “personal financial management” is often used to refer to ways of managing your personal finances, it is also an actual term often known by its acronym, PFM, and refers to the type of software used for personal finance apps. PFM has been around since 1983 when Intuit co-founder Scott Cook grew tired of watching his wife struggle with all the paperwork involved in paying bills by hand."
+  },
+  
+  {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": 3,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "complete GRE preparation",
+    "mentor": {
+      "name": "jhukar",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://ibb.co/CznqZp2"
     },
-    
-    {
-        "_id": "11468ed61aee84de492a8b04158a22f9",
-      "category_id": 3,
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "complete GRE preparation",
-      "mentor": {
-        "name": "jhukar",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://ibb.co/CznqZp2"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://ibb.co/xfmVdL5",
-      "details": "We offer a variety of free and low-cost tools to help you prepare for the GRE General Test so you can feel more confident on test day. To learn about the test and our test preparation tools directly from a GRE expert,sign up shikho learning app."
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "fees": "2400",
+    "duration": "2.30 hours",
+    "image_url": "https://ibb.co/xfmVdL5",
+    "details": "We offer a variety of free and low-cost tools to help you prepare for the GRE General Test so you can feel more confident on test day. To learn about the test and our test preparation tools directly from a GRE expert,sign up shikho learning app."
+  },
+  
+  {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": 3,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "complete GRE preparation",
+    "mentor": {
+      "name": "jhukar",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://ibb.co/CznqZp2"
     },
-    
-    {
-        "_id": "11468ed61aee84de492a8b04158a22f9",
-      "category_id": 3,
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "complete GRE preparation",
-      "mentor": {
-        "name": "jhukar",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://ibb.co/CznqZp2"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://ibb.co/xfmVdL5",
-      "details": "We offer a variety of free and low-cost tools to help you prepare for the GRE General Test so you can feel more confident on test day. To learn about the test and our test preparation tools directly from a GRE expert,sign up shikho learning app."
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "fees": "2400",
+    "duration": "2.30 hours",
+    "image_url": "https://ibb.co/xfmVdL5",
+    "details": "We offer a variety of free and low-cost tools to help you prepare for the GRE General Test so you can feel more confident on test day. To learn about the test and our test preparation tools directly from a GRE expert,sign up shikho learning app."
+  },
+  
+  {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": 3,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "complete GRE preparation",
+    "mentor": {
+      "name": "jhukar",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://ibb.co/CznqZp2"
     },
-    
-    {
-        "_id": "11468ed61aee84de492a8b04158a22f9",
-      "category_id": 3,
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "complete GRE preparation",
-      "mentor": {
-        "name": "jhukar",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://ibb.co/CznqZp2"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://ibb.co/xfmVdL5",
-      "details": "We offer a variety of free and low-cost tools to help you prepare for the GRE General Test so you can feel more confident on test day. To learn about the test and our test preparation tools directly from a GRE expert,sign up shikho learning app."
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "fees": "2400",
+    "duration": "2.30 hours",
+    "image_url": "https://ibb.co/xfmVdL5",
+    "details": "We offer a variety of free and low-cost tools to help you prepare for the GRE General Test so you can feel more confident on test day. To learn about the test and our test preparation tools directly from a GRE expert,sign up shikho learning app."
+  },
+  
+  {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": 3,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "complete GRE preparation",
+    "mentor": {
+      "name": "jhukar",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://ibb.co/CznqZp2"
     },
-    
-    {
-        "_id": "11468ed61aee84de492a8b04158a22f9",
-      "category_id": 3,
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "complete GRE preparation",
-      "mentor": {
-        "name": "jhukar",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://ibb.co/CznqZp2"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://ibb.co/xfmVdL5",
-      "details": "We offer a variety of free and low-cost tools to help you prepare for the GRE General Test so you can feel more confident on test day. To learn about the test and our test preparation tools directly from a GRE expert,sign up shikho learning app."
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "fees": "2400",
+    "duration": "2.30 hours",
+    "image_url": "https://ibb.co/xfmVdL5",
+    "details": "We offer a variety of free and low-cost tools to help you prepare for the GRE General Test so you can feel more confident on test day. To learn about the test and our test preparation tools directly from a GRE expert,sign up shikho learning app."
+  },
+  
+  {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": 3,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "complete GRE preparation",
+    "mentor": {
+      "name": "jhukar",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://ibb.co/CznqZp2"
     },
-    
-    {
-        "_id": "11468ed61aee84de492a8b04158a22f9",
-      "category_id": 3,
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "complete GRE preparation",
-      "mentor": {
-        "name": "jhukar",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://ibb.co/CznqZp2"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://ibb.co/xfmVdL5",
-      "details": "We offer a variety of free and low-cost tools to help you prepare for the GRE General Test so you can feel more confident on test day. To learn about the test and our test preparation tools directly from a GRE expert,sign up shikho learning app."
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "fees": "2400",
+    "duration": "2.30 hours",
+    "image_url": "https://ibb.co/xfmVdL5",
+    "details": "We offer a variety of free and low-cost tools to help you prepare for the GRE General Test so you can feel more confident on test day. To learn about the test and our test preparation tools directly from a GRE expert,sign up shikho learning app."
+  },
+  
+  {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": 3,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "complete GRE preparation",
+    "mentor": {
+      "name": "jhukar",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://ibb.co/CznqZp2"
     },
-    
-    {
-        "_id": "11468ed61aee84de492a8b04158a22f9",
-      "category_id": 4,
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "carriar development package",
-      "mentor": {
-        "name": "seider",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://ibb.co/jWm5Hvw"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://ibb.co/XFJZQzd",
-      "details": "We have a menu of video learning programmes that provide the opportunity to address specific development needs. They are presented in bite-sized modules that allow optimal use of the time available to the learner. Each is supported with content-rich Participant Workbooks/support materials and delivered in an attention-grabbing, thought-provoking, and pragmatic style by our expert facilitator. Participants will develop specific action plans for implementation of learning."
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "fees": "2400",
+    "duration": "2.30 hours",
+    "image_url": "https://ibb.co/xfmVdL5",
+    "details": "We offer a variety of free and low-cost tools to help you prepare for the GRE General Test so you can feel more confident on test day. To learn about the test and our test preparation tools directly from a GRE expert,sign up shikho learning app."
+  },
+  
+  {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": 4,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "carriar development package",
+    "mentor": {
+      "name": "seider",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://ibb.co/jWm5Hvw"
     },
-    
-    {
-        "_id": "11468ed61aee84de492a8b04158a22f9",
-      "category_id": 4,
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "carriar development package",
-      "mentor": {
-        "name": "seider",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://ibb.co/jWm5Hvw"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://ibb.co/XFJZQzd",
-      "details": "We have a menu of video learning programmes that provide the opportunity to address specific development needs. They are presented in bite-sized modules that allow optimal use of the time available to the learner. Each is supported with content-rich Participant Workbooks/support materials and delivered in an attention-grabbing, thought-provoking, and pragmatic style by our expert facilitator. Participants will develop specific action plans for implementation of learning."
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "fees": "2000",
+    "duration": "4.30 hours",
+    "image_url": "https://ibb.co/XFJZQzd",
+    "details": "We have a menu of video learning programmes that provide the opportunity to address specific development needs. They are presented in bite-sized modules that allow optimal use of the time available to the learner. Each is supported with content-rich Participant Workbooks/support materials and delivered in an attention-grabbing, thought-provoking, and pragmatic style by our expert facilitator. Participants will develop specific action plans for implementation of learning."
+  },
+  
+  {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": 4,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "carriar development package",
+    "mentor": {
+      "name": "seider",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://ibb.co/jWm5Hvw"
     },
-    
-    {
-        "_id": "11468ed61aee84de492a8b04158a22f9",
-      "category_id": 5,
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "carriar preparation package",
-      "mentor": {
-        "name": "glujai",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://ibb.co/9hjrBMh"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://ibb.co/my7B4Xf",
-      "details": "Career preparation programs provide students with rigorous academic and technical training and deep preparation for entry into postsecondary education, training"
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "fees": "2000",
+    "duration": "4.30 hours",
+    "image_url": "https://ibb.co/XFJZQzd",
+    "details": "We have a menu of video learning programmes that provide the opportunity to address specific development needs. They are presented in bite-sized modules that allow optimal use of the time available to the learner. Each is supported with content-rich Participant Workbooks/support materials and delivered in an attention-grabbing, thought-provoking, and pragmatic style by our expert facilitator. Participants will develop specific action plans for implementation of learning."
+  },
+  
+  {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": 5,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "carriar preparation package",
+    "mentor": {
+      "name": "glujai",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://ibb.co/9hjrBMh"
     },
-    {
-        "_id": "11468ed61aee84de492a8b04158a22f9",
-      "category_id": 5,
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "carriar preparation package",
-      "mentor": {
-        "name": "glujai",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://ibb.co/9hjrBMh"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://ibb.co/my7B4Xf",
-      "details": "Career preparation programs provide students with rigorous academic and technical training and deep preparation for entry into postsecondary education, training"
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "fees": "4000",
+    "duration": "4.30 hours",
+    "image_url": "https://ibb.co/my7B4Xf",
+    "details": "Career preparation programs provide students with rigorous academic and technical training and deep preparation for entry into postsecondary education, training"
+  },
+  {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": 5,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "carriar preparation package",
+    "mentor": {
+      "name": "glujai",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://ibb.co/9hjrBMh"
     },
-    {
-        "_id": "11468ed61aee84de492a8b04158a22f9",
-      "category_id": 5,
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "carriar preparation package",
-      "mentor": {
-        "name": "glujai",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://ibb.co/9hjrBMh"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://ibb.co/my7B4Xf",
-      "details": "Career preparation programs provide students with rigorous academic and technical training and deep preparation for entry into postsecondary education, training"
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "fees": "4000",
+    "duration": "4.30 hours",
+    "image_url": "https://ibb.co/my7B4Xf",
+    "details": "Career preparation programs provide students with rigorous academic and technical training and deep preparation for entry into postsecondary education, training"
+  },
+  {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": 5,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "carriar preparation package",
+    "mentor": {
+      "name": "glujai",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://ibb.co/9hjrBMh"
     },
-    {
-        "_id": "11468ed61aee84de492a8b04158a22f9",
-      "category_id": 5,
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "carriar preparation package",
-      "mentor": {
-        "name": "glujai",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://ibb.co/9hjrBMh"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://ibb.co/my7B4Xf",
-      "details": "Career preparation programs provide students with rigorous academic and technical training and deep preparation for entry into postsecondary education, training"
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "fees": "4000",
+    "duration": "4.30 hours",
+    "image_url": "https://ibb.co/my7B4Xf",
+    "details": "Career preparation programs provide students with rigorous academic and technical training and deep preparation for entry into postsecondary education, training"
+  },
+  {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": 5,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "carriar preparation package",
+    "mentor": {
+      "name": "glujai",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://ibb.co/9hjrBMh"
     },
-    {
-        "_id": "11468ed61aee84de492a8b04158a22f9",
-      "category_id": 5,
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "carriar preparation package",
-      "mentor": {
-        "name": "glujai",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://ibb.co/9hjrBMh"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://ibb.co/my7B4Xf",
-      "details": "Career preparation programs provide students with rigorous academic and technical training and deep preparation for entry into postsecondary education, training"
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "fees": "4000",
+    "duration": "4.30 hours",
+    "image_url": "https://ibb.co/my7B4Xf",
+    "details": "Career preparation programs provide students with rigorous academic and technical training and deep preparation for entry into postsecondary education, training"
+  },
+  {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": 5,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "carriar preparation package",
+    "mentor": {
+      "name": "glujai",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://ibb.co/9hjrBMh"
     },
-    {
-        "_id": "11468ed61aee84de492a8b04158a22f9",
-      "category_id": 5,
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "carriar preparation package",
-      "mentor": {
-        "name": "glujai",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://ibb.co/9hjrBMh"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://ibb.co/my7B4Xf",
-      "details": "Career preparation programs provide students with rigorous academic and technical training and deep preparation for entry into postsecondary education, training"
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "fees": "4000",
+    "duration": "4.30 hours",
+    "image_url": "https://ibb.co/my7B4Xf",
+    "details": "Career preparation programs provide students with rigorous academic and technical training and deep preparation for entry into postsecondary education, training"
+  },
+  {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": 5,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "carriar preparation package",
+    "mentor": {
+      "name": "glujai",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://ibb.co/9hjrBMh"
     },
-    {
-        "_id": "11468ed61aee84de492a8b04158a22f9",
-      "category_id": 5,
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "carriar preparation package",
-      "mentor": {
-        "name": "glujai",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://ibb.co/9hjrBMh"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://ibb.co/my7B4Xf",
-      "details": "Career preparation programs provide students with rigorous academic and technical training and deep preparation for entry into postsecondary education, training"
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "fees": "4000",
+    "duration": "4.30 hours",
+    "image_url": "https://ibb.co/my7B4Xf",
+    "details": "Career preparation programs provide students with rigorous academic and technical training and deep preparation for entry into postsecondary education, training"
+  },
+  {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": 5,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "carriar preparation package",
+    "mentor": {
+      "name": "glujai",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://ibb.co/9hjrBMh"
     },
-    
-    {
-        "_id": "11468ed61aee84de492a8b04158a22f9",
-      "category_id": 6,
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "mental stress management",
-      "mentor": {
-        "name": "zafar",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://ibb.co/VtXdY0f"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://ibb.co/NWyDxWJ",
-      "details": "Relax your mind and body, relieve painful muscles, detoxify and improve your circulation. If you find yourself looking for a way to relax, manage stress and improve your health. Book A Free Spa Session."
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "fees": "4000",
+    "duration": "4.30 hours",
+    "image_url": "https://ibb.co/my7B4Xf",
+    "details": "Career preparation programs provide students with rigorous academic and technical training and deep preparation for entry into postsecondary education, training"
+  },
+  
+  {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": 6,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "mental stress management",
+    "mentor": {
+      "name": "zafar",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://ibb.co/VtXdY0f"
     },
-    {
-        "_id": "11468ed61aee84de492a8b04158a22f9",
-      "category_id": "06",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "mental stress management",
-      "mentor": {
-        "name": "zafar",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://study.com/cimages/course-image/stress-management-in-psychology-help-review_169561_large.jpg",
-      "details": "Relax your mind and body, relieve painful muscles, detoxify and improve your circulation. If you find yourself looking for a way to relax, manage stress and improve your health. Book A Free Spa Session."
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "fees": "6000",
+    "duration": "5.30 hours",
+    "image_url": "https://ibb.co/NWyDxWJ",
+    "details": "Relax your mind and body, relieve painful muscles, detoxify and improve your circulation. If you find yourself looking for a way to relax, manage stress and improve your health. Book A Free Spa Session."
+  },
+  {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": 6,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "mental stress management",
+    "mentor": {
+      "name": "zafar",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
     },
-    {
-        "_id": "11468ed61aee84de492a8b04158a22f9",
-      "category_id": 6,
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "mental stress management",
-      "mentor": {
-        "name": "zafar",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://ibb.co/VtXdY0f"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://ibb.co/NWyDxWJ",
-      "details": "Relax your mind and body, relieve painful muscles, detoxify and improve your circulation. If you find yourself looking for a way to relax, manage stress and improve your health. Book A Free Spa Session."
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "fees": "6000",
+    "duration": "5.30 hours",
+    "image_url": "https://study.com/cimages/course-image/stress-management-in-psychology-help-review_169561_large.jpg",
+    "details": "Relax your mind and body, relieve painful muscles, detoxify and improve your circulation. If you find yourself looking for a way to relax, manage stress and improve your health. Book A Free Spa Session."
+  },
+  {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": 6,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "mental stress management",
+    "mentor": {
+      "name": "zafar",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://ibb.co/VtXdY0f"
     },
-    {
-        "_id": "11468ed61aee84de492a8b04158a22f9",
-      "category_id": 6,
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "mental stress management",
-      "mentor": {
-        "name": "zafar",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://ibb.co/VtXdY0f"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://ibb.co/NWyDxWJ",
-      "details": "Relax your mind and body, relieve painful muscles, detoxify and improve your circulation. If you find yourself looking for a way to relax, manage stress and improve your health. Book A Free Spa Session."
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "fees": "6000",
+    "duration": "5.30 hours",
+    "image_url": "https://ibb.co/NWyDxWJ",
+    "details": "Relax your mind and body, relieve painful muscles, detoxify and improve your circulation. If you find yourself looking for a way to relax, manage stress and improve your health. Book A Free Spa Session."
+  },
+  {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": 6,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "mental stress management",
+    "mentor": {
+      "name": "zafar",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://ibb.co/VtXdY0f"
     },
-    {
-        "_id": "11468ed61aee84de492a8b04158a22f9",
-      "category_id": 6,
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "mental stress management",
-      "mentor": {
-        "name": "zafar",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://ibb.co/VtXdY0f"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://ibb.co/NWyDxWJ",
-      "details": "Relax your mind and body, relieve painful muscles, detoxify and improve your circulation. If you find yourself looking for a way to relax, manage stress and improve your health. Book A Free Spa Session."
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "fees": "6000",
+    "duration": "5.30 hours",
+    "image_url": "https://ibb.co/NWyDxWJ",
+    "details": "Relax your mind and body, relieve painful muscles, detoxify and improve your circulation. If you find yourself looking for a way to relax, manage stress and improve your health. Book A Free Spa Session."
+  },
+  {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": 6,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "mental stress management",
+    "mentor": {
+      "name": "zafar",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://ibb.co/VtXdY0f"
     },
-    {
-        "_id": "11468ed61aee84de492a8b04158a22f9",
-      "category_id": 6,
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
-      "title": "mental stress management",
-      "mentor": {
-        "name": "zafar",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://ibb.co/VtXdY0f"
-      },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://ibb.co/NWyDxWJ",
-      "details": "Relax your mind and body, relieve painful muscles, detoxify and improve your circulation. If you find yourself looking for a way to relax, manage stress and improve your health. Book A Free Spa Session."
-    }
-    
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "fees": "6000",
+    "duration": "5.30 hours",
+    "image_url": "https://ibb.co/NWyDxWJ",
+    "details": "Relax your mind and body, relieve painful muscles, detoxify and improve your circulation. If you find yourself looking for a way to relax, manage stress and improve your health. Book A Free Spa Session."
+  },
+  {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": 6,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "mental stress management",
+    "mentor": {
+      "name": "zafar",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://ibb.co/VtXdY0f"
+    },
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "fees": "6000",
+    "duration": "5.30 hours",
+    "image_url": "https://ibb.co/NWyDxWJ",
+    "details": "Relax your mind and body, relieve painful muscles, detoxify and improve your circulation. If you find yourself looking for a way to relax, manage stress and improve your health. Book A Free Spa Session."
+  }
+  
 ]

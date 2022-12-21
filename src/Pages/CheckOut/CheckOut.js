@@ -4,9 +4,9 @@ import { AuthContext } from '../../contexts/AuthProvider';
 import CourseTitle from '../CourseTitle/CourseTitle';
 
 const CheckOut = () => {
-    const course = useLoaderData();
+     const course = useLoaderData();
     const {user} = useContext(AuthContext);
-    //console.log(course);
+     console.log(course);
     CourseTitle('CheckOut');
 
 
@@ -18,10 +18,10 @@ const CheckOut = () => {
             <div className="card w-96 bg-gradient-to-r from-green-400 to-blue-500 hover:from-pink-500 hover:to-yellow-500 shadow-xl text-neutral-content">
                 <div className="card-body items-center text-center">
                     <h2 className="card-title text-black">{course.title}</h2>
-                    <p className='text-gray-900'>Cousre Fee: ${course.fees} || Duration: {course.duration}hr</p>
+                    <p className='text-gray-900'>Course Fee: ${course.fees} || Duration: {course.duration}hr</p>
                     <div className="card-actions justify-end">
                     <label htmlFor="my-modal" className="btn modal-button">Confirm</label>
-                    <Link to={`/course/${course.id}`}><button className="btn btn-outline">Cancel</button></Link>
+                    <Link to="/Courses"><button className="btn btn-outline">Cancel</button></Link>
                     </div>
                 </div>
                 </div>

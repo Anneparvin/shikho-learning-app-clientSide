@@ -5,11 +5,12 @@ import CoursesDetail from '../CoursesDetail/CoursesDetail';
 
 const Category = () => {
   const courses = useLoaderData();
+  console.log(courses);
     CourseTitle('Courses');
     
     return (
      <div>
-            <h2>this is category:{courses.length}</h2>
+            <h1 className='text-4xl text-center font-bold'>This is category:{courses.length}</h1>
             {
                 courses.map(course =><CoursesDetail
                 key={course._id}
