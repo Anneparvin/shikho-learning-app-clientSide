@@ -28,16 +28,34 @@ const CoursesDetail = ({course}) => {
                         <div className='col-span-2 w-full p-6 sm:w-12/12 bg-gray-900 text-gray-100 rounded-xl'>
                        <div className='text-4xl my-6 font-bold'>{title}</div>
                             <img src={image_url} alt=""></img>
-                                <div>
+                            <div className='flex justify-between'>
+                            <div>
                                 <h1 className='text-4xl font-bold'>Mentor</h1>
                                 <p>Name: {mentor.name}</p>
-                                <img src={mentor.img} alt=""></img>
+                                <img
+                                 rounded circle
+                                 className='me-2'
+                                 src ={mentor.img}
+                                 style ={{height:'60px'}}
+                                 alt=""></img>
                                 <p>Published_date: {mentor.published_date}</p>
                                 </div>
-                                
+                                <div>
+                                    <h1 className='mt-4'>thumbnail_url</h1>
                                 <p>Total_view: {total_view}</p>
-                                <img src={thumbnail_url} alt=""></img>
+                                <img
+                                rounded circle
+                                className='me-2'
+                                src ={thumbnail_url}
+                                style ={{height:'80px'}}
+                                alt=""
+                                ></img>
 
+                                </div>
+                                
+                            </div>
+                                
+                                
                         
                             <div className="w-full my-6"> 
                                 <div className="card border">
