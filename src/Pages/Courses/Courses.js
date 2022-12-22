@@ -1,6 +1,5 @@
 import React from 'react';
 import {useLoaderData} from 'react-router-dom';
-import CoursesDetail from '../CoursesDetail/CoursesDetail';
 import CourseTitle from '../CourseTitle/CourseTitle';
 import LeftSideNav from '../Shared/LeftSideNav/LeftSideNav';
 

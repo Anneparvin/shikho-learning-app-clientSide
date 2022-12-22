@@ -27,16 +27,16 @@ const CoursesDetail = ({course}) => {
                         {/* sideBar #2 */}
                         <div className='col-span-2 w-full p-6 sm:w-12/12 bg-gray-900 text-gray-100 rounded-xl'>
                        <div className='text-4xl my-6 font-bold'>{title}</div>
-                            <h1>{image_url}</h1>
+                            <img src={image_url} alt=""></img>
                                 <div>
                                 <h1 className='text-4xl font-bold'>Mentor</h1>
                                 <p>Name: {mentor.name}</p>
-                                <p>{mentor.img}</p>
+                                <img src={mentor.img} alt=""></img>
                                 <p>Published_date: {mentor.published_date}</p>
                                 </div>
                                 
                                 <p>Total_view: {total_view}</p>
-                                <p>Thumbnail_url: {thumbnail_url}</p>
+                                <img src={thumbnail_url} alt=""></img>
 
                         
                             <div className="w-full my-6"> 

@@ -16,7 +16,8 @@ This Projects is developed by Forida Parven Anne
  https://shikho-learning-app-server.vercel.app
 
 ## Live Site Link
-(Coming Soon)
+https://shikho-app.web.app        
+
 
 ## Github Link
 #Client Side: https://github.com/Anneparvin/shikho-learning-app-clientSide

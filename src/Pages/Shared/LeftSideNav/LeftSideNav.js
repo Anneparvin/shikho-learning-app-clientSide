@@ -15,7 +15,7 @@ const LeftSideNav = () => {
         <div className='grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-6'>
             {
               categories.map(category => <p key={category.id}>
-                <div className="card w-96 bg-base-100 shadow-xl image-full gap-6">  
+                <div className="card w-96 shadow-xl image-full gap-6 bg-gradient-to-r from-pink-400 to-green-500 hover:from-green-500 hover:to-yellow-500 text-neutral-content">  
                 <figure><img src="https://placeimg.com/400/225/arch" alt="course" /></figure>
                 <div className="card-body">
                     <h2 className="card-title text-4xl font-bold">{category.id}</h2>

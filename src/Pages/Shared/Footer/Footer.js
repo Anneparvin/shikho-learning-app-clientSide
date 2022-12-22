@@ -8,7 +8,7 @@ const Footer = () => {
     <img className='w-64 h-32 rounded-lg' src={logo} alt=""/>
     <p className="font-bold">
       Shikho-Learning-app <br/>
-      copyRight@gmail.com_Zisan_Zakariya
+      copyRight@gmail.com_Forida_Parvin
     </p> 
     
   </div> 

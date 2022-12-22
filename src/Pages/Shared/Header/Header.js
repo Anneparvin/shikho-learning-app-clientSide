@@ -46,6 +46,7 @@ const Header = () => {
                 <Link to="/" className="btn btn-ghost normal-case text-xl">
                     <img className='w-16 h-16 rounded-lg' src={logo} alt="" />
                 </Link>
+                <p className='text-2xl font-bold flex'>Shikho Learning App</p>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal p-0">
